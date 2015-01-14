@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
        md5TV = (TextView) findViewById(R.id.md5);
        test = (EditText) findViewById(R.id.Text);
        
+       
        // check if you are connected or not
        isConnected();
 
